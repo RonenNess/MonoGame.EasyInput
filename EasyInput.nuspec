@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+	<id>MonoGame.EasyInput</id>
+	<version>1.0.0.0</version>
+	<authors>Ronen Ness</authors>
+	<owners>RonenNess</owners>
+	<title>MonoGame.EasyInput</title>
+	<summary>Helper class to extend keyboard and mouse input for MonoGame.</summary>
+	<licenseUrl>https://github.com/RonenNess/MonoGame.EasyInput/blob/master/LICENSE</licenseUrl>
+	<projectUrl>https://github.com/RonenNess/MonoGame.EasyInput</projectUrl>
+	<requireLicenseAcceptance>false</requireLicenseAcceptance>
+	<releaseNotes>First stable release.</releaseNotes>
+	<description>Extend keyboard and mouse input for MonoGame.</description>
+	<tags>monogame input keyboard mouse</tags>
+	<dependencies>
+	</dependencies>
+  </metadata>
+  <files>
+	<file src="MonoGameEasyInput\bin\DesktopGL\AnyCPU\Release\MonoGameEasyInput.dll" target="lib\monogame.easyinput\MonoGameEasyInput.dll"/>
+  </files>
+</package>

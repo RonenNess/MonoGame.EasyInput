@@ -3,7 +3,7 @@
 Provide extended Mouse & Keyboard input for MonoGame.
 
 
-# EasyMouse
+## EasyMouse
 
 `EasyMouse` provide extended functionality for mouse input. 
 
@@ -84,7 +84,7 @@ _easyMouse.OnScrollWheelUse += (int delta) =>
 ```
 
 
-# EasyKeyboard
+## EasyKeyboard
 
 `EasyKeyboard` provide extended functionality for keyboard input. 
 
